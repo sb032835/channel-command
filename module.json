@@ -6,6 +6,6 @@
 	"options": {
 		"niceName": "Channel Command"
 	},
-    "servers": ["https://raw.githubusercontent.com/teralove/channel-command/master/"],
+    "servers": ["https://raw.githubusercontent.com/sb032835/channel-command/master/"],
     "supportUrl": "https://github.com/teralove/channel-command/issues"
 }
